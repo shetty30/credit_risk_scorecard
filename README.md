@@ -97,9 +97,6 @@ pytest tests/test_cleaning.py -v
 - Model Risk Management (SR 11-7 framework)
 - Population Stability Index (PSI) for model monitoring
 
-## Dashboard Preview
-![Dashboard Overview](reports/dashboard_overview.png)
-![Individual Scorer](reports/dashboard_scorer.png)
 
 ## Tech Stack
 Python, pandas, NumPy, scikit-learn, XGBoost, SHAP, Streamlit, SQL
@@ -109,3 +106,8 @@ Home Credit Default Risk — 307,511 loan applications, 122 features, 8.07% defa
 
 ## Author
 Shriya Shetty 
+
+
+## Dashboard Preview
+![Dashboard Overview](reports/dashboard_overview.png)
+![Individual Scorer](reports/dashboard_scorer.png)
